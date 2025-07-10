@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to my profile! I'm Amit Rawat</h1>
 
-<!--
-**AmitRawat99/AmitRawat99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li>🌐 Full Stack Web Developer</li>
+<li>💼 Freelancer</li>
+<li>💡 Problem Solver</li>
 
-Here are some ideas to get you started:
+<p align="center">
+  🔭 I’m currently working on <strong>MERN Stack projects and real-world web apps</strong><br/>
+  Passionate about turning ideas into code, building scalable applications, and continuously learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  📫 Feel free to connect via email: <a href="mailto:amitrawat789599@gmail.com">amitrawat789599@gmail.com</a><br/>
+  🤝 Let's collaborate and create something amazing! 😊🚀
+</p>
