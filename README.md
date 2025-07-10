@@ -1,5 +1,5 @@
 <h3 class="font-bold text-xl font-sans uppercase tracking-wide leading-snug">
-  👋 Welcome to my profile! I'm Amit Rawat
+  👋 Welcome To My Profile! I'm Amit Rawat
 </h3>
 
 <p>
