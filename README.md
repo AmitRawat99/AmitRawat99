@@ -1,4 +1,4 @@
-<img src="./full_stack.png" style="width: 100%; height: 200px;" />
+<img src="./full_stack.png" style="width: 100%; height: 350px;" />
 
 <br/>
 <h3 class="font-bold text-xl font-sans uppercase tracking-wide leading-snug">
