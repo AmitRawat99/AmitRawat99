@@ -1,4 +1,4 @@
-<img style="height : 250px" src="./full_stack.png"/>
+<img style=" width : "100%" , height : "200px"" src="./full_stack.png"/>
 <br/>
 <h3 class="font-bold text-xl font-sans uppercase tracking-wide leading-snug">
   👋 Welcome To My Profile! I'm Amit Rawat
