@@ -9,8 +9,8 @@
 </p>
 
 <li>🌐 Full Stack Web Developer..</li>
-<li>💼 Freelancer..</li>
-<li>💡 Problem Solver..</li>
+<li>💼 Freelancer</li>
+<li>💡 Problem Solver</li>
 <br/>
 <p>
   📫 Feel free to connect via email: <a href="mailto:amitrawat789599@gmail.com">amitrawat789599@gmail.com</a><br/>
